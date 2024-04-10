@@ -1,5 +1,6 @@
 {
     "name": "yunhung/composer-helloworld",
+    "version": "0.0.1",
     "autoload": {
         "psr-4": {
             "Yunhung\\ComposerHelloworld\\": "src/"
